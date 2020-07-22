@@ -1,0 +1,23 @@
+{
+  "name": "kafka-node-app",
+  "version": "1.0.0",
+  "description": "Learn how to use kafka within a nodejs application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Deepesh316/kafka-node-app.git"
+  },
+  "keywords": [],
+  "author": "Deepesh Kumar R <deepeshkumar6080@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Deepesh316/kafka-node-app/issues"
+  },
+  "homepage": "https://github.com/Deepesh316/kafka-node-app#readme",
+  "dependencies": {
+    "kafkajs": "^1.12.0"
+  }
+}
